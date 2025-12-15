@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Privacy Policy</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; max-width: 900px; margin: 40px auto; padding: 0 16px; line-height: 1.5; }
+    h1,h2 { line-height: 1.2; }
+    .muted { color: #666; }
+    code { background: #f4f4f4; padding: 2px 6px; border-radius: 6px; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p class="muted"><strong>Last updated:</strong> 2025-12-15</p>
+
+  <p>This application (“the App”) is used for development and internal testing.</p>
+
+  <h2>Data We Collect</h2>
+  <p>The App may process the following data from Facebook / Messenger:</p>
+  <ul>
+    <li>User ID (page-scoped ID)</li>
+    <li>Messages sent to the App</li>
+    <li>Attachments such as images or text (if provided)</li>
+  </ul>
+
+  <h2>How We Use Data</h2>
+  <ul>
+    <li>Provide automated responses</li>
+    <li>Test and improve application functionality</li>
+    <li>Debug and validate integrations</li>
+  </ul>
+
+  <h2>Data Sharing</h2>
+  <p>We do not sell personal data. Data is not used for advertising or profiling.</p>
+
+  <h2>Data Storage</h2>
+  <p>Data may be processed temporarily for functionality and debugging. We aim to keep only what is necessary.</p>
+
+  <h2>Data Deletion</h2>
+  <p>You may request deletion of your data by contacting:</p>
+  <p><strong>EMAIL:</strong> your-email@example.com</p>
+  <p>We will delete relevant data upon request.</p>
+
+  <h2>Contact</h2>
+  <p>If you have questions about this policy, contact:</p>
+  <p><strong>EMAIL:</strong> your-email@example.com</p>
+</body>
+</html>
